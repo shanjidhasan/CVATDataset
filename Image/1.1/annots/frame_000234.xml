@@ -1,1 +1,1 @@
-<annotation><folder>dataset</folder><filename>frame_000234</filename><size><width>1080</width><height>1920</height></size><object><name>None</name><bndbox><xmin>305.52</xmin><ymin>1287.30</ymin><xmax>556.10</xmax><ymax>1590.70</ymax></bndbox></object></annotation>
+<annotation><folder>dataset</folder><filename>frame_000234</filename><size><width>1080</width><height>1920</height></size><object><name>None</name><bndbox label="None"><xmin>305.52</xmin><ymin>1287.30</ymin><xmax>556.10</xmax><ymax>1590.70</ymax></bndbox></object></annotation>
